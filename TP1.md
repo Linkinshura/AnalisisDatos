@@ -36,30 +36,26 @@ Fuente: https://concepto.de/sistema/
 
 ## 2.
 
-En el caso de un sistema informatico los sistemas poseen componentes que son especificos para cumplir una tarea especifica:
+Interactuan entre si el equipo conmputacional, recursos humanos, datos o informacion fuente junto a programas ejecutados por la computadora, telecomunicaciones y procedimientos de politicas y reglas de operacion
 
-°CPU:
-La CPU es el cerebro que maneja todo dentro de la computadora, se encarga de ejecutar instrucciones, realizar calculos y gestionar procesos, permitiendo el funcionamiento correcto de todo el sistema
+Componentes:
 
-°RAM:
-La RAM es la encargada de almacenar datos temporales que la CPU necesita constantemente rapido, permitiendo la carga de aplicaciones y ejecucion de procesos independientemente del dispositivo de almacenamiento.
+°Entrada de Informacion:
+Proceso donde se ingresan al sistema los datos requeridos
 
-°SSD y HD:
-Los discos duros(HD) y los de estado solido(SSD) son los encargados de guardar permanentemente los datos como el sistema operativo, archivos y programas, incluso con el sistema apagado.
+°Procesamiento de la informacion:
+Transformacion de datos fuente informacion que puede ser utilizada a la hora de decidir algo.
 
-°Placa Base:
-Es el conector principal que se encarga de comunicar todos los componentes entre si, todos los componentes tienen su hueco para conectarse y poder funcionar correctamente dentro de la Placa Base
+°Salida de Informacion:
+Capacidad del sistema de producir informacion procesada y sacar los datos al exterior
 
-°Tarjetas Graficas:
-Una tarjeta grafica o GPU se encarga de las tareas visuales que requieren intensidad como los juegos y la edicion de videos, descargando desde la CPU trabajo y asegurandose que los graficos sean fluidos y de alta calidad
+°Ambiente:
+Es el medio que rodea al sistema, es una fuente de amenazas y recursos constante
 
-°Alimentacion:
-La fuente de alimentacion se encarga de distribuir energia a todos los componentes, realizando un cambio de electricidad en diferencia a la que recibe con la que envia, para que sea adecuada para los elementos, debido a que la electricidad recibida tiende a ser demasiado alta para ellos
+Retroalimentacion:
+Abarca la informacion que se brinda a partir del desempeño del producto, la cual cuando ocurre una desviacion del plan determina su razon y los ajustes requeridos
 
-°Refrigeracion:
-Los sistemas de refrigeracion son los encargados de disipar el calor generado por el trabajo de los componentes, evitando sobrecalentamiento y mal funcionamiento de estos, ademas de evitar que surgan daños irreparables en el sistema
-
-Fuente: https://www.lenovo.com/ar/es/glosario/componentes-del-sistema/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOop-EWl5kh6XIJ3nRIgy9WkWu4-b563PswKVPPe31qtiIfrKejTM
+Fuente: https://es.scribd.com/document/680771977/Componentes-de-un-sistema
 
 ## 3.
 
