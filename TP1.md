@@ -52,8 +52,8 @@ Capacidad del sistema de producir informacion procesada y sacar los datos al ext
 °Ambiente:
 Es el medio que rodea al sistema, es una fuente de amenazas y recursos constante
 
-Retroalimentacion:
-Abarca la informacion que se brinda a partir del desempeño del producto, la cual cuando ocurre una desviacion del plan determina su razon y los ajustes requeridos
+Bucle de Retroalimentacion:
+Es un proceso de ciclo donde la salida de un sistema se reintroduce como una entrada para modificarlo a futuro, permitiendo autoregulacion, aprendizaje y mejora continua 
 
 Fuente: https://es.scribd.com/document/680771977/Componentes-de-un-sistema
 
